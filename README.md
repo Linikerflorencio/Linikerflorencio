@@ -1,7 +1,7 @@
 ## Olá, Sou Liniker Florencio!
 
-- 🔭 Atualmente trabalho com suporte técnico em ecommerce
-- 🌱 Estudando desenvolvimento Front end 
+- 🔭 Atualmente trabalhando com UX/UI Design
+- 🌱 Estudando desenvolvimento iOS em Swift
 - 🌱 estudando Análise e desenvolvimento de sistemas 
 
 <div align="center">
