@@ -1,8 +1,8 @@
 ## Olá, Sou Liniker Florencio!
 
-- 👨🏻‍💻 Atualmente trabalhando com UX/UI Design
-- 👨🏻‍💻 Estudando desenvolvimento iOS em Swift
-- 🎓 Formando em Análise e desenvolvimento de sistemas 
+- 👨🏻‍💻 Desenvolvedor Front end / Full Stack
+- 👨🏻‍💻 UX/UI Designer
+- 🎓 Formado em Análise e desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/Linikerflorencio">
