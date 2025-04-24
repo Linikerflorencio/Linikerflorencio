@@ -1,6 +1,6 @@
 ## Olá, Sou Liniker Florencio!
 
-- 👨🏻‍💻 Desenvolvedor Front end / Full Stack
+- 👨🏻‍💻 Desenvolvedor Full Stack
 - 👨🏻‍💻 UX/UI Designer
 - 🎓 Formado em Análise e desenvolvimento de sistemas 
 
